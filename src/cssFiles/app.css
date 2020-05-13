@@ -1,0 +1,10 @@
+.movie-section {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1128px;
+}
+body {
+  background: brown;
+  display: flex;
+  justify-content: center;
+}
